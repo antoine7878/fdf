@@ -1,0 +1,7 @@
+obj/
+file/
+miniRT
+*.a
+*.o
+.cache/
+compile_commands.json
